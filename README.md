@@ -1,7 +1,7 @@
 # Ecommerce Website 🛍️🌐
 
 ## Introduction 📢
-Welcome to the Ecommerce Website project! Developed for a client during my freelance work with YMY Agency, this user-friendly Ecommerce website is designed to provide an exceptional online shopping experience.
+Welcome to the Ecommerce Website project! Developed as part of a homework in a university course for a client during my freelance work with YMY Agency, this user-friendly Ecommerce website is designed to provide an exceptional online shopping experience.
 
 ## Features 🌟
 - **Home Page**: An engaging and informative landing page (`index.html`).
