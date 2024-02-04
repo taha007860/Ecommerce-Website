@@ -1,7 +1,7 @@
 # Ecommerce Website 🛍️🌐
 
 ## Introduction 📢
-Welcome to the MyEcommerce project! This is a user-friendly eCommerce website designed to provide an exceptional online shopping experience.
+Welcome to the Ecommerce Website project! Developed for a client during my freelance work with YMY Agency, this user-friendly Ecommerce website is designed to provide an exceptional online shopping experience.
 
 ## Features 🌟
 - **Home Page**: An engaging and informative landing page (`index.html`).
@@ -16,7 +16,7 @@ Welcome to the MyEcommerce project! This is a user-friendly eCommerce website de
 - **CSS**: For styling and responsive design.
 
 ## Watch Demo:
-https://github.com/taha007860/Repository-Administration-System/assets/96583299/894a6cf3-70c9-4aea-b7da-417b61c57136
+[Ecommerce Demo](https://github.com/taha007860/Repository-Administration-System/assets/96583299/894a6cf3-70c9-4aea-b7da-417b61c57136)
 
 ## Installation and Setup 🛠️
 1. Clone or download the repository to your local machine.
